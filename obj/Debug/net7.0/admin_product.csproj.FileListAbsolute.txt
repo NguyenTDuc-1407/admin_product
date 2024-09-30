@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\New folder\admin_product\bin\Debug\net7.0\admin_product.exe
+C:\Users\ASUS\Desktop\New folder\admin_product\bin\Debug\net7.0\admin_product.deps.json
+C:\Users\ASUS\Desktop\New folder\admin_product\bin\Debug\net7.0\admin_product.runtimeconfig.json
+C:\Users\ASUS\Desktop\New folder\admin_product\bin\Debug\net7.0\admin_product.dll
+C:\Users\ASUS\Desktop\New folder\admin_product\bin\Debug\net7.0\admin_product.pdb
+C:\Users\ASUS\Desktop\New folder\admin_product\obj\Debug\net7.0\admin_product.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\New folder\admin_product\obj\Debug\net7.0\admin_product.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\New folder\admin_product\obj\Debug\net7.0\admin_product.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\New folder\admin_product\obj\Debug\net7.0\admin_product.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\New folder\admin_product\obj\Debug\net7.0\admin_product.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\New folder\admin_product\obj\Debug\net7.0\admin_product.dll
+C:\Users\ASUS\Desktop\New folder\admin_product\obj\Debug\net7.0\refint\admin_product.dll
+C:\Users\ASUS\Desktop\New folder\admin_product\obj\Debug\net7.0\admin_product.pdb
+C:\Users\ASUS\Desktop\New folder\admin_product\obj\Debug\net7.0\admin_product.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\New folder\admin_product\obj\Debug\net7.0\ref\admin_product.dll
